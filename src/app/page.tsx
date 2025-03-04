@@ -230,9 +230,9 @@ export default function Home() {
           />
           <Column fillWidth horizontal="center" gap="32" padding="32" position="relative">
             <InlineCode radius="xl" shadow="m" fit paddingX="16" paddingY="8">
-              Start by editing
+              Start your project
               <Text onBackground="brand-medium" marginLeft="8">
-                app/page.tsx
+                with Zet
               </Text>
             </InlineCode>
             <Heading wrap="balance" variant="display-default-l" align="center" marginBottom="16">
